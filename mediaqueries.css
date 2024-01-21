@@ -58,7 +58,10 @@
         margin-top: 0;
     }
     #about{
-        margin-top: 6rem;
+        margin-top: -15rem;
+    }
+    #contact{
+        margin-top: 5rem;
     }
 }
 
@@ -76,6 +79,9 @@
         footer nav {
             height: fit-content;
             margin-bottom: 2rem;
+        }
+        #about{
+            margin-top: -15rem;
         }
         .about-containers, 
         .contact-info-upper-container, 
