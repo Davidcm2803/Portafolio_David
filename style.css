@@ -334,6 +334,7 @@ display: flex;
 /* Experience*/
  
 #experience {
+    margin-top: 50px;
     position: relative;
 }
 
@@ -430,6 +431,7 @@ article .icon {
 /* Contact section*/
 
 #contact{
+    margin-top: 50px;
     display: flex;
     justify-content: center;
     flex-direction: column;
