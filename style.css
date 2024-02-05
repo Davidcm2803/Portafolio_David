@@ -334,9 +334,6 @@ display: flex;
 /* Experience*/
  
 #experience {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 2rem;
     margin-top: 50px;
     position: relative;
 }
@@ -393,7 +390,6 @@ article .icon {
 }
 
 .project-img{
-    flex-grow: 1;
     border-radius: 2rem;
     width: 90%;
     height: 90%;   
