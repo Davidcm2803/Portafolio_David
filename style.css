@@ -63,6 +63,7 @@ a:hover{
 .logo:hover{
     cursor: default;
 }
+
 /* hamburger menu */
 #hamburger-nav{
     display: none;
